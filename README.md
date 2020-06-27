@@ -1,9 +1,11 @@
 # Reproducible-Social-Work-Research
 -----
-1. Reproducible Social Work Research syllabus
-2. Book Project, Based on Syllabus
 
-**Description:** A space for creating content aimed at fostering reproducible, open, social work research
+**Description:** A space for creating content aimed at fostering reproducible, open, social work research. The overall project has two main components:
+
+  1. Reproducible Social Work Research syllabus
+  
+  2. Book Project, Based on Syllabus
 
 **Contributing:** If you are interested in contributing to this project, please send me an email at djd09e (at) fsu (dot) edu
 
