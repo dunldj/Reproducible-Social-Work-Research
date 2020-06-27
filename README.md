@@ -1,7 +1,7 @@
 # Reproducible-Social-Work-Research
 -----
 
-**Description:** A space for creating content aimed at fostering reproducible, open, social work research. The overall project has two main components:
+**Description:** A space for creating content aimed at fostering reproducible, open, social work research. The overall project has three main components:
 
   1. Reproducible Social Work Research syllabus
   
