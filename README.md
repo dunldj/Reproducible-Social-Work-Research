@@ -5,7 +5,9 @@
 
   1. Reproducible Social Work Research syllabus
   
-  2. Book Project, Based on Syllabus
+  2. Book Project, Based on 
+  
+  3. Reproducible Social Work Research (journal)
 
 **Contributing:** If you are interested in contributing to this project, please send me an email at djd09e (at) fsu (dot) edu
 
