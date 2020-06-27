@@ -1,4 +1,4 @@
-# Reproducible-Social-Work-Research-
+# Reproducible-Social-Work-Research
 -----
 Description: A space for creating content aimed at fostering reproducible, open, social work research
 -----
