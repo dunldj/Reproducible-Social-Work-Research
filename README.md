@@ -5,7 +5,7 @@
 
   1. Reproducible Social Work Research syllabus
   
-  2. Book Project, Based on 
+  2. Book Project, Based on the above syllabus
   
   3. Reproducible Social Work Research (journal)
 
