@@ -1,0 +1,17 @@
+Desired (potential) features of journal (draft)
+---------------------------------------------------------------
+-Open access; no APCs
+-Living documents/able to update
+-Readable/searchable files
+-Linkage/storage to data and materials
+-Open pre-acceptance review
+-Open post-publication review
+-Option to have non-blinded review
+-Integration with other software (e.g. statcheck)
+-Commentary and critique
+-Book reviews
+-Theory pieces?
+-Registered Reports
+-Verification Reports
+-Preregistration
+
