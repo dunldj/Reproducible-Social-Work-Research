@@ -7,11 +7,72 @@ Desired (potential) features of journal (draft)
 -Open pre-acceptance review
 -Open post-publication review
 -Option to have non-blinded review
--Integration with other software (e.g. statcheck)
+-Integration with other software and tools (e.g. statcheck; https://web.hypothes.is/; SCite; etc.?)
 -Commentary and critique
 -Book reviews
 -Theory pieces?
 -Registered Reports
 -Verification Reports
 -Preregistration
-
+-----------------------------------------------------------------
+-Fulfillment of TOP Guidelines
+-Statistical review during peer review
+-Submission of data with manuscript
+-Publication of data with manuscript
+-Disavowel of Volumes, Issues...publish as accepted. Keep year + doi 
+-No word/page min/max 
+-Consideration of nanopublications (see also: https://app.science-octopus.org/)
+-Badges?
+-Link everything to ORCID (including reviews, comments, etc. a la Octopus format)
+-Make all outputs citable (videos, code, figures, text, data, etc.)
+-Reputation based system for peer review? [How to disentangle this from name and institution?]
+-Reputation and quality to unlock new features?
+-----------------------------------------------------------------
+-Social Work Research Forum?
+-Tutorials?
+-Debates?
+-Tips?
+-Red Teaming?
+-Making review/comments/etc. doi/citable?
+------------------------------------------------------------------
+-Incentivization?
+	-How to also incentivize quality comments/feedback/reviews; AND how to appropriately curate.
+-Formal editor and editorial board vs. open system of peer-review?
+-Code of Conduct?
+-Triple Blind Review?
+-Credit model of authorship
+-Crediting reviewers (e.g. publons)
+-DORA stuff
+-------------------------------------------------------------------
+Modelss
+-eLife
+-Collabra
+-Metapsychology
+-PLoS
+-BMJ
+-PeerJ
+-F1000
+-ArXiv etc.
+-JOSS
+-https://rescience.github.io/
+-----
+SW Journals
+-RSWP
+-JSSWR
+------------------------------------------------------------------
+See also:
+-https://www.wired.com/story/peer-reviewed-scientific-journals-dont-really-do-their-job/
+-Nick Fox blog
+-http://fossilsandshit.com/github-peer-review/
+-https://featuredcontent.psychonomic.org/as-new-venues-for-peer-review-flower-will-journals-catch-up/
+-https://andrewgyork.github.io/publication_template/
+-https://app.science-octopus.org/
+-https://grasshoppermouse.github.io/2019/07/12/should-scientific-publishing-move-to-github-and-friends/
+-------------------------------------------------------------------
+-Link funding pool to reviewers; capped at a certain amount? Lottery system?
+-Real-time feedback to authors
+-------------------------------------------------------------------
+-Branded or supported by CSW at FSU?
+-Supported by internal FSU funding?
+--------------------------------------------------------------------
+-Manubot
