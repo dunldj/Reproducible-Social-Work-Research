@@ -73,6 +73,7 @@ See also:
 -Real-time feedback to authors
 -------------------------------------------------------------------
 -Branded or supported by CSW at FSU?
--Supported by internal FSU funding?
+-Supported by internal FSU funding? [see: https://guides.lib.fsu.edu/c.php?g=352858&p=4522684]
+-https://opensocialwork.org/2020/03/04/margaret-adamek/
 --------------------------------------------------------------------
 -Manubot
