@@ -41,7 +41,7 @@ Desired (potential) features of journal (draft)
 -Code of Conduct?
 -Triple Blind Review?
 -Credit model of authorship
--Crediting reviewers (e.g. publons)
+-Crediting reviewers (e.g. Publons)
 -DORA stuff
 -------------------------------------------------------------------
 Modelss
