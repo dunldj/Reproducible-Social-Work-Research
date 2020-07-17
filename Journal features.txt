@@ -4,7 +4,7 @@ Desired (potential) features of journal (draft)
 -Living documents/able to update
 -Readable/searchable files
 -Linkage/storage to data and materials
--Open pre-acceptance review
+-Open pre-acceptance reviews
 -Open post-publication review
 -Option to have non-blinded review
 -Integration with other software and tools (e.g. statcheck; https://web.hypothes.is/; SCite; etc.?)
